@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f41140c5-0951-47db-8a19-bd699dc741ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../SpringBoot/lesson6/mycoolapp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringBoot/lesson6_helloWorld/mycoolapp/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringBoot/lesson6_helloWorld/mycoolapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringBoot/lesson6_helloWorld/mycoolapp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringBoot/lesson6_helloWorld/mycoolapp/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringBoot/lesson6_helloWorld/mycoolapp/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringBoot/lesson6_helloWorld/mycoolapp/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringBoot/lesson6_helloWorld/mycoolapp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson34_constructorInjection/springcoredemoapp/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson34_constructorInjection/springcoredemoapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson34_constructorInjection/springcoredemoapp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson34_constructorInjection/springcoredemoapp/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson34_constructorInjection/springcoredemoapp/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson34_constructorInjection/springcoredemoapp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson34_constructorInjection/springcoredemoapp/src/main/java/com/luv2code/springcoredemo/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson34_constructorInjection/springcoredemoapp/src/main/java/com/luv2code/springcoredemo/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson34_constructorInjection/springcoredemoapp/src/main/java/com/luv2code/springcoredemo/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson34_constructorInjection/springcoredemoapp/src/main/java/com/luv2code/springcoredemo/SpringcoredemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson34_constructorInjection/springcoredemoapp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson34_constructorInjection/springcoredemoapp/src/test/java/com/luv2code/springcoredemo/MycoolappApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/src/main/java/com/luv2code/springcoredemo/SpringcoredemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/src/main/java/com/luv2code/springcoredemo/common/BaseballCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/src/main/java/com/luv2code/springcoredemo/common/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/src/main/java/com/luv2code/springcoredemo/common/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/src/main/java/com/luv2code/springcoredemo/common/TennisCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/src/main/java/com/luv2code/springcoredemo/common/TrackCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/src/main/java/com/luv2code/springcoredemo/rest/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SpringCore/lesson45_qualifiers/springcoredemoapp/src/test/java/com/luv2code/springcoredemo/MycoolappApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/lesson6/mycoolapp/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/lesson6/mycoolapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/lesson6/mycoolapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/lesson6/mycoolapp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/lesson6/mycoolapp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/lesson6/mycoolapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SpringBoot/lesson6_helloWorld/mycoolapp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/lesson6/mycoolapp/src/main/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SpringBoot/lesson6_helloWorld/mycoolapp/src/main/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/lesson6/mycoolapp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/lesson6/mycoolapp/src/test/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SpringBoot/lesson6_helloWorld/mycoolapp/src/test/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2sTSjH95586zrYJfRC1J90clAXv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/flavio/github/SpringBootCourse/HibernateJPACRUD/lesson66_settingSpringBootProject/cruddemo"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f41140c5-0951-47db-8a19-bd699dc741ac" name="Changes" comment="" />
+      <created>1738478205263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738478205263</updated>
+    </task>
+    <servers />
+  </component>
+</project>
